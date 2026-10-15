@@ -1,73 +1,28 @@
 # Semikron-High-Voltage-Diode-Alternative-Guide
 
-<div align="center">
+**SEMIKRON / SEMTECH High Voltage Diode Alternative**
 
-**Semikron (now Semikron Danfisk) High Voltage Diode Alternative & Cross-Reference**
+HVC's HVD series covers pin-to-pin replacements for SEMIKRON and SEMTECH high voltage diodes used in industrial rectifier and multiplier stacks.
 
-[![GitHub stars](https://img.shields.io/github/stars/HVCCaps/Semikron-High-Voltage-Diode-Alternative-Guide.svg?style=social&label=Star)](https://github.com/HVCCaps/Semikron-High-Voltage-Diode-Alternative-Guide/stargazers)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+📖 **Full guide with the complete cross-reference table: https://hvc-capacitor.github.io/semikron-diode-alternative/**
 
-**Complete Replacement for SKa, SK Series High Voltage Diodes**
+## Series covered
 
-*Open Source Power Electronics Resource | Maintained by HVC Capacitor Manufacturing*
+- SEMIKRON / SEMTECH avalanche and fast-recovery HV diodes
+- High-current types available
+- Full cross-reference tables published on the official site
 
-</div>
+## Official resources
 
----
+- [SEMIKRON / SEMTECH replacement table (official page)](https://www.hv-caps.com/High_Voltage_Diode/2026/0105/49334.html)
+- [SEMIKRON & SEMTECH replacement FAQ: switching to HVC HVD diodes](https://www.hv-caps.com/Quality/capacitor_blog/49459.html)
 
-## 🎯 About This Project
+## Contact
 
-**Semikron** (recently merged with Danfoss to form **Semikron Danfoss**) is a leading manufacturer of power semiconductors, including high voltage diode modules used in:
-
-- ✅ Industrial motor drives
-- ✅ Solar inverters
-- ✅ Welding equipment
-- ✅ High voltage power supplies
-- ✅ Traction systems
-
-This repository provides **verified 1:1 alternatives** using **HVC's high voltage rectifier diode product line**.
+- Website: https://www.hv-caps.com/
+- Email: sales@hv-caps.com
+- Phone: +86-755-61167757
 
 ---
 
-## 📋 Semikron Series Coverage
-
-### Target Diode Families
-
-| Semikron Series | PIV Rating | Current | Package Type | HVC Alternative |
-|----------------|-----------|---------|--------------|-----------------|
-| **SKa series** | 5kV - 20kV | 10A - 100A | Module/Press-pack | **HVD-HVM series** |
-| **SK series** | 2kV - 6.6kV | 50A - 500A | Module | **HVM module series** |
-| **SKKD/SKKE** | 1.8kV - 3.3kV | 50A - 200A | Dual diode | **HVC dual-die** |
-
-### Sample Cross-Reference Table
-
-> For complete database: `docs/semikron_complete_crossref.csv`
-
-| Semikron Part Number | PIV | If(AV) | Vf(max) | trr | HVC Equivalent | Datasheet |
-|---------------------|-----|--------|---------|-----|----------------|-----------|
-| **SKa 80/16** | 1.6kV | 80A | 1.5V | 200ns | **HVD-1600V-80A** | [View](https://hv-caps.com/High_Voltage_Diode/2026/0105/49334.html) |
-| **SKa 150/12** | 1.2kV | 150A | 1.35V | 300ns | **HVD-1200V-150A** | [View](https://hv-caps.com/High_Voltage_Diode/2026/0105/49334.html) |
-
----
-
-## 🔗 Official HVC Resources
-
-### Dedicated Semikron Alternative Page:
-👉 **[Alternative Equivalent for Semikron and Semtech High Voltage Diode (SKa, SK series)](https://hv-caps.com/High_Voltage_Diode/2026/0105/49334.html)**
-
-🌐 **Main Website:** [https://www.hv-caps.com](https://www.hv-caps.com)
-- [High Voltage Diode Manufacturer](https://hv-caps.com/High_Voltage_Diode/2019/1212/3343.html)
-- [Complete Diode Catalog](https://hv-caps.com/)
-
-📧 **Contact:** sales@hv-caps.com | support@hv-caps.com
-
----
-
-<div align="center">
-
-**Last Updated:** June 13, 2026  
-**Total Entries:** 156 Semikron parts cataloged
-
-</div>
-
-**Made with ❤️ by [HVC CAPACITOR MANUFACTURING CO.,LTD](https://www.hv-caps.com)**
+Competitor model numbers are listed for identification purposes only; HVC replacement part numbers are HVC products. Always verify form, fit and function on a sample before production use.
